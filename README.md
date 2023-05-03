@@ -25,6 +25,8 @@
  
  - **ALIFE**: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation (NeurIPS2022)  [[paper](https://arxiv.org/abs/2210.06816) / [code](https://github.com/cvlab-yonsei/ALIFE)]
  
+ - **WILSON**: Incremental Learning in Semantic Segmentation from Image Labels (CVPR2022)  [[paper](https://arxiv.org/abs/2112.01882) / [code](https://github.com/fcdl94/WILSON)]
+  
  - **RCIL**: Representation Compensation Networks for Continual Semantic Segmentation (CVPR2022)  [[paper](https://arxiv.org/abs/2203.05402) / [code](https://github.com/zhangchbin/RCIL)]
 
  - **REMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
@@ -33,6 +35,8 @@
 ### 2021
  - **SSUL**: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (NeurIPS2021)  [[paper](https://arxiv.org/abs/2106.11562) / [code](https://github.com/clovaai/SSUL)]
  
+ - **PIFS**: Prototype-based Incremental Few-Shot Semantic Segmentation (BMVC2021)  [[paper](https://arxiv.org/abs/2012.01415) / [code](https://github.com/fcdl94/FSS)]
+  
  - **RECALL**: Replay-based Continual Learning in Semantic Segmentation (ICCV2021)  [[paper](https://arxiv.org/abs/2108.03673) / [code](https://github.com/LTTM/RECALL)]
   
  - **PLOP**: Learning without Forgetting for Continual Semantic Segmentation (CVPR2021)  [[paper](https://arxiv.org/abs/2011.11390) / [code](https://github.com/arthurdouillard/CVPR2021_PLOP)]
