@@ -13,6 +13,8 @@
   - **AWT**: Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation
  (WACV2023)  [[paper](https://arxiv.org/abs/2210.07207) / [code](https://github.com/dfki-av/AWT-for-CISS)]
  
+   - **SATS**: Self-Attention Transfer for Continual Semantic Segmentation (PR2023)  [[paper](https://arxiv.org/abs/2203.07667) / [code](https://github.com/QIU023/SATS_Continual_Semantic_Seg)]
+ 
 ### 2022
  - **SPPA**: Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment (ECCV2022)  [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890341.pdf) / code]
  
