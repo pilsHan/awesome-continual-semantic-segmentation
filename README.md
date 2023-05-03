@@ -48,5 +48,7 @@
 Adverse Weather Conditions (CVPR2023)  [[paper](https://arxiv.org/abs/2303.14115) / code]
 
  - SimCS: Simulation for Online Domain-Incremental Continual Segmentation (CVPRW2023)  [[paper](https://arxiv.org/abs/2211.16234) / code]
-
+ 
+ - An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions (CVPRW2022)  [[paper](https://arxiv.org/abs/2204.08817) / [code](https://github.com/jmiemirza/DUA)]
+ 
  - Multi-Domain Incremental Learning for Semantic Segmentation (WACV2022)  [[paper](https://arxiv.org/abs/2110.12205) / [code](https://github.com/prachigarg23/MDIL-SS)]
