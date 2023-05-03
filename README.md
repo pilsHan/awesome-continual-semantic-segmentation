@@ -29,8 +29,9 @@
   
  - **RCIL**: Representation Compensation Networks for Continual Semantic Segmentation (CVPR2022)  [[paper](https://arxiv.org/abs/2203.05402) / [code](https://github.com/zhangchbin/RCIL)]
 
- - **REMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
- (CVPR2022)  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf) / [code](https://github.com/HieuPhan33/REMINDER)]
+ - **REMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation (CVPR2022)  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf) / [code](https://github.com/HieuPhan33/REMINDER)]
+ 
+ - **UCD**: Uncertainty-aware Contrastive Distillation for Incremental Semantic Segmentation (TPAMI2022)  [[paper](https://arxiv.org/abs/2203.14098) / [code](https://github.com/ygjwd12345/UCD)]
 
 ### 2021
  - **SSUL**: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (NeurIPS2021)  [[paper](https://arxiv.org/abs/2106.11562) / [code](https://github.com/clovaai/SSUL)]
