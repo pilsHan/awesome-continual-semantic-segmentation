@@ -1,4 +1,6 @@
 # awesome-continual-semantic-segmentation
+![survey](https://user-images.githubusercontent.com/87313780/235855065-eef424e5-45c2-4156-a64b-5e4c016ab0a3.png)
+
 ### 2023
  - **CoMFormer**: Continual Learning in Semantic and Panoptic Segmentation (CVPR2023)  [[paper](https://arxiv.org/abs/2211.13999) / [code](https://github.com/fcdl94/CoMFormer)]
  
