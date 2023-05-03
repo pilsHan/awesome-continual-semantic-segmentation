@@ -42,3 +42,11 @@
  
  ### 2019
  - **ILT**: Incremental Learning Techniques for Semantic Segmentation (ICCVW2019)  [[paper](https://arxiv.org/abs/1907.13372) / [code](https://github.com/LTTM/IL-SemSegm)]
+
+## Domain-Incremental-semantic-segmentation
+ - Principles of Forgetting in Domain-Incremental Semantic Segmentation in
+Adverse Weather Conditions (CVPR2023)  [[paper](https://arxiv.org/abs/2303.14115) / code]
+
+ - SimCS: Simulation for Online Domain-Incremental Continual Segmentation (CVPRW2023)  [[paper](https://arxiv.org/abs/2211.16234) / code]
+
+ - Multi-Domain Incremental Learning for Semantic Segmentation (WACV2022)  [[paper](https://arxiv.org/abs/2110.12205) / [code](https://github.com/prachigarg23/MDIL-SS)]
