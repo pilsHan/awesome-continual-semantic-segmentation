@@ -25,7 +25,7 @@
  
  - **RCIL**: Representation Compensation Networks for Continual Semantic Segmentation (CVPR2022)  [[paper](https://arxiv.org/abs/2203.05402) / [code](https://github.com/zhangchbin/RCIL)]
 
- - **RIMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
+ - **REMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
  (CVPR2022)  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf) / [code](https://github.com/HieuPhan33/REMINDER)]
 
 ### 2021
