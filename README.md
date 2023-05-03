@@ -8,6 +8,9 @@
    
  - **DKT**: Diverse Knowledge Transfer Transformer for Class Incremental Learning (CVPR2023)  [paper / code]
  
+  - **AWT**: Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation
+ (WACV2023)  [[paper](https://arxiv.org/abs/2210.07207) / [code](https://github.com/dfki-av/AWT-for-CISS)]
+ 
 ### 2022
  - **SPPA**: Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment (ECCV2022)  [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890341.pdf) / code]
  
@@ -21,6 +24,9 @@
  - **ALIFE**: Adaptive Logit Regularizer and Feature Replay for Incremental Semantic Segmentation (NeurIPS2022)  [[paper](https://arxiv.org/abs/2210.06816) / [code](https://github.com/cvlab-yonsei/ALIFE)]
  
  - **RCIL**: Representation Compensation Networks for Continual Semantic Segmentation (CVPR2022)  [[paper](https://arxiv.org/abs/2203.05402) / [code](https://github.com/zhangchbin/RCIL)]
+
+ - **RIMINDER**: Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation
+ (CVPR2022)  [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf) / [code](https://github.com/HieuPhan33/REMINDER)]
 
 ### 2021
  - **SSUL**: Semantic Segmentation with Unknown Label for Exemplar-based Class-Incremental Learning (NeurIPS2021)  [[paper](https://arxiv.org/abs/2106.11562) / [code](https://github.com/clovaai/SSUL)]
