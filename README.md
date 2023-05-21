@@ -6,9 +6,9 @@
  
  - Continual Semantic Segmentation with Automatic Memory Sample Selection (CVPR2023)  [[paper](https://arxiv.org/abs/2304.05015) / code]
   
- - **Incrementer**: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class (CVPR2023)  [paper / code]
+ - **Incrementer**: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class (CVPR2023)  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.html) / code]
    
- - **DKT**: Diverse Knowledge Transfer Transformer for Class Incremental Learning (CVPR2023)  [paper / code]
+ - **DKT**: Diverse Knowledge Transfer Transformer for Class Incremental Learning (CVPR2023)  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_DKT_Diverse_Knowledge_Transfer_Transformer_for_Class_Incremental_Learning_CVPR_2023_paper.html) / [code](https://github.com/MIV-XJTU/DKT)]
  
   - **AWT**: Attribution-aware Weight Transfer: A Warm-Start Initialization for Class-Incremental Semantic Segmentation
  (WACV2023)  [[paper](https://arxiv.org/abs/2210.07207) / [code](https://github.com/dfki-av/AWT-for-CISS)]
